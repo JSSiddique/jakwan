@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './Container/App';
-import reportWebVitals from './reportWebVitals';
-import 'tachyons';
+import App from './containers/App';
+import registerServiceWorker from './registerServiceWorker';
+import 'tachyons'; 
 
 
-ReactDOM.render(<App />,document.getElementById('root'));
-reportWebVitals();
+ReactDOM.render(<App />, document.getElementById('root'));
+// registerServiceWorker();
