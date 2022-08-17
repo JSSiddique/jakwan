@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jakwan/static/css/main.38f6e3b2.chunk.css",
+    "main.js": "/jakwan/static/js/main.0ab38aac.chunk.js",
+    "main.js.map": "/jakwan/static/js/main.0ab38aac.chunk.js.map",
+    "runtime-main.js": "/jakwan/static/js/runtime-main.eac3ab08.js",
+    "runtime-main.js.map": "/jakwan/static/js/runtime-main.eac3ab08.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/jakwan/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "/jakwan/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "/jakwan/static/js/2.f9f5aa27.chunk.js.map",
+    "index.html": "/jakwan/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/jakwan/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.38f6e3b2.chunk.css.map": "/jakwan/static/css/main.38f6e3b2.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "/jakwan/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jakwan/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac3ab08.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.38f6e3b2.chunk.css",
+    "static/js/main.0ab38aac.chunk.js"
+  ]
+}
